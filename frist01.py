@@ -1,3 +1,4 @@
+#mycode
 print("โปรแกรมคำนวนพื้นที่ของสามเหลี่ยม")
 h=float(input("Enter hight:"))
 b=float(input("Enter base:"))
